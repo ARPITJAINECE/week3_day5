@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hardik.sharma\\source\\repos\\Library-MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B636C3-7912-4A85-B072-951EC517B553}|Library-MVC.csproj|c:\\users\\hardik.sharma\\source\\repos\\library-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2B636C3-7912-4A85-B072-951EC517B553}|Library-MVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B636C3-7912-4A85-B072-951EC517B553}|Library-MVC.csproj|c:\\users\\hardik.sharma\\source\\repos\\library-mvc\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B636C3-7912-4A85-B072-951EC517B553}|Library-MVC.csproj|solutionrelative:models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B636C3-7912-4A85-B072-951EC517B553}|Library-MVC.csproj|c:\\users\\hardik.sharma\\source\\repos\\library-mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B636C3-7912-4A85-B072-951EC517B553}|Library-MVC.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B636C3-7912-4A85-B072-951EC517B553}|Library-MVC.csproj|c:\\users\\hardik.sharma\\source\\repos\\library-mvc\\controllers\\borrowrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B636C3-7912-4A85-B072-951EC517B553}|Library-MVC.csproj|solutionrelative:controllers\\borrowrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B636C3-7912-4A85-B072-951EC517B553}|Library-MVC.csproj|c:\\users\\hardik.sharma\\source\\repos\\library-mvc\\data\\migrations\\20240721163227_addedborrowrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B636C3-7912-4A85-B072-951EC517B553}|Library-MVC.csproj|solutionrelative:data\\migrations\\20240721163227_addedborrowrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hardik.sharma\\source\\repos\\Library-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hardik.sharma\\source\\repos\\Library-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T16:36:40.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240721163227_addedBorrowRecordModel.cs",
+              "DocumentMoniker": "C:\\Users\\hardik.sharma\\source\\repos\\Library-MVC\\Data\\Migrations\\20240721163227_addedBorrowRecordModel.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240721163227_addedBorrowRecordModel.cs",
+              "ToolTip": "C:\\Users\\hardik.sharma\\source\\repos\\Library-MVC\\Data\\Migrations\\20240721163227_addedBorrowRecordModel.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240721163227_addedBorrowRecordModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:32:27.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BorrowRecordsController.cs",
+              "DocumentMoniker": "C:\\Users\\hardik.sharma\\source\\repos\\Library-MVC\\Controllers\\BorrowRecordsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BorrowRecordsController.cs",
+              "ToolTip": "C:\\Users\\hardik.sharma\\source\\repos\\Library-MVC\\Controllers\\BorrowRecordsController.cs",
+              "RelativeToolTip": "Controllers\\BorrowRecordsController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswEAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:31:32.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hardik.sharma\\source\\repos\\Library-MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hardik.sharma\\source\\repos\\Library-MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:21:17.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "C:\\Users\\hardik.sharma\\source\\repos\\Library-MVC\\Models\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "Models\\BorrowRecord.cs",
+              "ToolTip": "C:\\Users\\hardik.sharma\\source\\repos\\Library-MVC\\Models\\BorrowRecord.cs",
+              "RelativeToolTip": "Models\\BorrowRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:16:15.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
